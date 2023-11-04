@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/BST.cpp
+TreeNode.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/TreeNode.h
+BST.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/BST.h
+iostream
+-
+queue
+-
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/BST.h
+TreeNode.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/TreeNode.h
+BST.cpp
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/BST.cpp
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/TreeNode.h
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/main.cpp
+iostream
+-
+fstream
+-
+BST.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/BST/BST.h
+

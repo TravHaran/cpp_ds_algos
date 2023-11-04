@@ -1,0 +1,7 @@
+Problem Statement
+
+Let's say we are given an array of money denominations (bills/coins)
+that are sorted in ascending order.
+If we are also given a value 'C' for change, how do we find the 
+combination of the minimum possible number of bills/coins that create
+the change 'C'

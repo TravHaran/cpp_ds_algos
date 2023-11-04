@@ -1,0 +1,8 @@
+Problem Description
+
+A thief enters a home with a goal of stealing as many of the most valuable 
+items as he can. He is carrying a knapsack that has a certain weight capacity.
+(i.e. if he puts too much weight it will tear)
+The problem the thief needs to solve is:
+    What is the best combination of items he can choose to put in his knapsack 
+    without tearing it?

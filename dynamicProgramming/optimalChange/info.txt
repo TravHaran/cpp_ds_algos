@@ -1,0 +1,5 @@
+Problem Statement
+
+What is the minimum amount of coins needed to 
+make a change given a list of denominations?
+What coins are used in that minimum amount?

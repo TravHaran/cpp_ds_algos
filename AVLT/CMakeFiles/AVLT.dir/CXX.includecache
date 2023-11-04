@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/AvlTree.cpp
+iostream
+-
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/AvlTree.h
+Node.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/Node.h
+AvlTree.cpp
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/AvlTree.cpp
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/Node.h
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/main.cpp
+AvlTree.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/AVLT/AvlTree.h
+fstream
+-
+iostream
+-
+

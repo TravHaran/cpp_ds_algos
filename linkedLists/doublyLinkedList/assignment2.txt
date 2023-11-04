@@ -1,0 +1,14 @@
+The challenge is to make a delete function "del(T dataValue)", 
+that can find the value that is passed to the function in the
+Linked list and delete the node that contains that value.
+TIPS:
+    - Think about how th prev and the next pointers work.
+    - visualize the linked list structure in your head and 
+    imagine what it looks like when you delete a node.
+
+    - Think about the different node positions that might get deleted.
+    - how do they differ?
+    - how do you handle each scenario?
+
+    - Think about the order in which to do certain things 
+    - things like tha actual deletion of a node vs changing pointers around.

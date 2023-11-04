@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LList.cpp
+LNode.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LNode.h
+iostream
+-
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LList.h
+LNode.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LNode.h
+LList.cpp
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LList.cpp
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LNode.cpp
+iostream
+-
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LNode.h
+LNode.cpp
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LNode.cpp
+
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/main.cpp
+iostream
+-
+fstream
+-
+LList.h
+/Users/trav/Documents/TeslaRoboticsPrep/ComprehensiveSoftwareDevelopmentCpp/DataStructuresAlgorithms/linkedLists/doublyLinkedList/LList.h
+

@@ -1,0 +1,55 @@
+{
+    "Major":"Computer Science",
+    "Courses": [
+        {"Title": "Intro to Programming",
+        "ID": "CS100",
+        "Instructor": "Steve Nowitski",
+        "Prerequisites": []},
+
+        {"Title": "Programming 2",
+        "ID": "CS101",
+        "Instructor": "Jeff Dean",
+        "Prerequisites": ["CS100"]},
+
+        {"Title": "Computer Architecture",
+        "ID": "CS102",
+        "Instructor": "Jason Richards",
+        "Prerequisites": ["CS100"]},
+
+        {"Title": "Object Oriented Programming",
+        "ID": "CS103",
+        "Instructor": "Mike Gerrard",
+        "Prerequisites": ["CS101"]},
+
+        {"Title": "Data Structures & Algorithms",
+        "ID": "CS200",
+        "Instructor": "Kumar Rajendran",
+        "Prerequisites": ["CS101"]},
+
+        {"Title": "Data Structures & Algorithms 2",
+        "ID": "CS201",
+        "Instructor": "Sergio Fernandez",
+        "Prerequisites": ["CS200"]},
+
+        {"Title": "Algorithm Design & Analysis",
+        "ID": "CS202",
+        "Instructor": "Mathew Bertrude",
+        "Prerequisites": ["CS201", "CS103"]},
+
+        {"Title": "Operating Systems",
+        "ID": "CS203",
+        "Instructor": "Bill Jacobs",
+        "Prerequisites": ["CS102"]},
+
+        {"Title": "Compiler Design & Optimization",
+        "ID": "CS301",
+        "Instructor": "Kelsie Mac",
+        "Prerequisites": ["CS202", "CS203"]},
+
+        {"Title": "Embedded Systems",
+        "ID": "CS300",
+        "Instructor": "Bob Rivers",
+        "Prerequisites": ["CS102", "CS103", "CS201", "CS203"]}
+        ]
+}
+

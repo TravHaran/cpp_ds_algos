@@ -1,0 +1,6 @@
+c ab
+a cb
+b cad
+d bef
+e d
+f d

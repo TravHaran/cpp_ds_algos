@@ -1,0 +1,11 @@
+Iterative Code Implementation of Fibonacci Sequence
+
+We use an array to keep track of calculated fib values
+If a fib number is not -1 then immediately return it 
+instead of doing a recursive call.
+Set arr[0] and arr[1] to appropriate fib values since 
+we know what they are.
+Loop through array and update fib values by simply 
+adding the two previous positions in the array.
+
+Return the final value in the array.

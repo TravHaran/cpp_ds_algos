@@ -1,0 +1,9 @@
+You should create a Destructor for the Doubly linked list 
+as well as a member function that can tell whether the 
+Linked List is a Palindrome or not.
+
+The Destructor will need to handle the deletion of each node.
+
+The isPalindrome function should return True if the Linked List
+reads the same when going forwards as it does backwards.
+Otherwise it should return False.

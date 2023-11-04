@@ -1,0 +1,52 @@
+For this project you will be creating a chaining-based solution
+hash table. 
+The goal is to create something slightly similar to the C++ STL 
+data type "unordered_map" where we can put and get items in the
+hash table via the subscript operator..
+(Example: hashtable["Patricia"]=25)
+(Example: cout<<hashtable["Patricia"];)
+The "unordered_map" STL data type actually uses chaining as a 
+collision resolution solution, whereas the STL "map" data type 
+doesn't even use a hash table but instead uses a Balanced Search Tree
+(Something we will cover in a future part of the class).
+
+PROBLEM STATEMENT:
+
+You are to create a chaining-based hash table. 
+The Hash Table should be its own data type 
+(an ADT with a header like “HashTable.h” for example). 
+The data structure should be an array of Linked Lists (Doubly or Singly).
+
+a client file should take the input from a text file organized like the 
+following:
+    name(string): age(int)
+    name(string): age(int)
+    ...
+
+
+    Ex.
+    Patricia: 25
+    Dylan: 30
+    Patrick: 21
+    ...
+
+it will store this data in the hash table. Next, the client file will 
+open another file that simply has a list of Names:
+    name(string)
+    name(string)
+    name(string)
+    ...
+
+
+    Ex.
+    Dylan 
+    Patricia
+    Patrick
+    ...
+
+The hash table should be searched for each of the names in this
+second file and print out the corresponding ages that match the
+name respectively.
+
+Refrain from using any STL containers other than a standard array. 
+Insertion into the hash table should be O(1).
